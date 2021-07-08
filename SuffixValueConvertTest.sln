@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuffixValueConvertTest", "SuffixValueConvertTest\SuffixValueConvertTest.csproj", "{B96E64BF-F407-49F2-81B9-55FF2D41C115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96E64BF-F407-49F2-81B9-55FF2D41C115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96E64BF-F407-49F2-81B9-55FF2D41C115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96E64BF-F407-49F2-81B9-55FF2D41C115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96E64BF-F407-49F2-81B9-55FF2D41C115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80A9D51-3FC2-49C0-9FFE-C822C1D6BA30}
+	EndGlobalSection
+EndGlobal
